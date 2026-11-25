@@ -1,7 +1,9 @@
 [package]
 name = "namegen"
 version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
 authors = ["Aaron Brodersen <aaron@abrodersen.com>", "Moby Authors"]
 
 [dependencies]
-rand = "0.3"
+rand = "0.10"
